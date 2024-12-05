@@ -1,6 +1,7 @@
 sass:
   style: compressed  # or expanded, depending on your preference
 
+url: https://schloschi23.github.io
 
 collections:
   authors:
@@ -21,3 +22,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+      
