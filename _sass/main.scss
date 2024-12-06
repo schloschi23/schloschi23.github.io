@@ -1,16 +1,26 @@
-/* seiteninhalt kleiner als vollbildschirm machen */
-.container {
-  width: 90%;
-  margin: 0 auto;
-  padding: 20px;
+/* zitate stylen */
+q {
+  font-style: italic;
+  padding-left: 10px;
+  margin: 20px;
+  display:block;
+}
+
+blockquote {
+  font-style: italic;
+  padding-left: 10px;
+  margin: 20px;
+  display:block;
 }
 
 
-.current {
-    color: green;
-  }
+/* datentabelle stylen */
+table {
+  width: 100%
+}
 
-  /* header stylen */
+
+/* header stylen */
 .header {
   overflow: hidden;
   padding: 20px 10px;
@@ -34,8 +44,85 @@
   font-weight: bold;
 }
 
+/* den link rechts davon anheben */
+.header-right {
+  float: right;
+}
+
 /* blaue farbe beim hovern */
 a:hover {
   color: blue;
   text-decoration: underline;
 }
+
+/* seiteninhalt kleiner als vollbildschirm machen */
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+/* abenteuer/projekt vorschau*/ 
+.column img {
+ width: 100%;
+ height: auto;
+ cursor: pointer;
+}
+
+
+/* vollseitiges bannerbild */
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("../assets/banner.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* 3er gitter */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* schweben aufheben */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* reihen-link stylen */
+h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+
+/* abenteuer */
+.bericht {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
