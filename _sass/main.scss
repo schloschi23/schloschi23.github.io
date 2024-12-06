@@ -63,7 +63,7 @@ a:hover {
 }
 
 
-/* abenteuer/projekt vorschau*/ 
+/* vorschau bilder/ 
 .column img {
  width: 100%;
  height: auto;
@@ -92,8 +92,16 @@ body {
   margin: 0;
 }
 
+/* 2er gitter */
+.column2 {
+  float: left;
+  width: 50%;
+  padding: 15px;
+}
+
+
 /* 3er gitter */
-.column {
+.column3 {
   float: left;
   width: 33.33%;
   padding: 15px;
