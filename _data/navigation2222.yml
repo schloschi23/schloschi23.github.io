@@ -1,4 +1,4 @@
-- name: Home
+- name: schloschi
   link: /
 - name: gedanken
   link: /gedanken.html
@@ -6,5 +6,3 @@
   link: /projekte.html
 - name: abenteuer
   link: /abenteuer.html
-- name: Staff
-  link: /staff.html

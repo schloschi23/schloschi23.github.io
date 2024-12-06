@@ -1,3 +1,41 @@
+/* seiteninhalt kleiner als vollbildschirm machen */
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
 .current {
     color: green;
   }
+
+  /* header stylen */
+.header {
+  overflow: hidden;
+  padding: 20px 10px;
+}
+
+/* header-links stylen */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* logo-link stylen (gleiche font-size wie line-height) */
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* blaue farbe beim hovern */
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}

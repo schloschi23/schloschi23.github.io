@@ -1,12 +1,18 @@
 <!doctype html>
-<html>
+<html lang="de">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="schloschis seite">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/responsiveness.css">
   </head>
   <body>
-    {% include navigation.html %}
+    <div class="container">
+    {% include header.html %}
     {{ content }}
+    {% include footer.html %}
+    </div>
   </body>
 </html>
