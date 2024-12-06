@@ -134,3 +134,39 @@ h2 a:hover {
 }
 
 
+
+/* es wird immer Responsivität < 500px hergestellt*/
+
+/* abenteuer und projekte vorschau */
+@media screen and (max-width: 500px) {
+  .clickable {
+    width: 100%;
+  }
+}
+
+/* header */
+@media screen and (max-width: 500px) {
+  .header a {
+    float: right;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}
+
+/* 3er gitter */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
