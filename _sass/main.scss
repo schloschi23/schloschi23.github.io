@@ -34,7 +34,28 @@ a:hover {
   text-decoration: underline;
 }
 
+/*CONTENT*/
+/* seiteninhalt kleiner als vollbildschirm machen */
+.content {
+  width: 95%;
+  margin: 0 auto;
+  padding: 15px
+}
 
+.container {
+  width: 95%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.full-width {
+  width: 100%;
+  padding: 10px;
+}
+
+
+
+/*VORSCHAU*/
 /* reihen-link stylen */
 h2 a {
   color: inherit;
@@ -46,25 +67,31 @@ h2 a:hover {
   text-decoration: underline;
 }
 
-
-
-/*CONTENT*/
-/* seiteninhalt kleiner als vollbildschirm machen */
-.content {
-  width: 95%;
-  margin: 0 auto;
+div.mycontainer {
+  width: 100%;
+  overflow: auto;
 }
 
 
-.container {
-  width: 95%;
-  margin: 0 auto;
-  padding: 20px;
-}
+ /* 3er gitter */
+ .column {
+   float: left;
+   width: 33.33%;
+   padding: 15px;
+ }
+
+ /* vorschau bilder*/ 
+ .column img {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+ }
 
 
 
-/* zitate stylen */
+
+
+/* BERICHTE */
 q {
   font-style: italic;
   padding-left: 10px;
@@ -79,39 +106,6 @@ blockquote {
   display:block;
 }
 
-/* datentabelle stylen */
-table {
-  width: 100%
-}
-
-
-
-/*COLUMN*/
-
-/* vorschau bilder*/ 
-.column img {
- width: 100%;
- height: auto;
- cursor: pointer;
-}
-
-/* 3er gitter */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 15px;
-}
-
-/* schweben aufheben */
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-
-
-
 /* abenteuer */
 .bericht {
   width: 60%;
@@ -120,19 +114,6 @@ table {
 }
 
 
-
-/* vollseitiges bannerbild */
-body, html {
-  height: 100%;
-}
-
-.bg {
-  background-image: url("../assets/banner.png");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 * {
   box-sizing: border-box;
@@ -151,11 +132,10 @@ body {
 @media screen and (max-width: 500px) {
   .clickable {
     width: 100%;
+    overflow: auto;
   }
-}
 
 /* header */
-@media screen and (max-width: 500px) {
   .header a {
     float: right;
     display: block;
@@ -164,16 +144,11 @@ body {
   .header-right {
     float: none;
   }
-}
 
 /* 3er gitter */
-@media screen and (max-width: 500px) {
   .column {
     width: 100%;
   }
-}
-
-@media screen and (max-width: 600px) {
   .column, input[type=submit] {
     width: 100%;
     margin-top: 0;
