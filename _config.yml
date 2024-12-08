@@ -1,7 +1,8 @@
 sass:
   style: compressed  # or expanded, depending on your preference
 
-# baseurl: "schloschi23.github.io"
+# baseurl: "/schloschi23.github.io"
+
 
 collections:
   authors:
