@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="schloschis seite">
-    <title>{{ page.title }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
@@ -16,3 +16,6 @@
   </body>
   {% include footer.html %}
 </html>
+
+
+{{ page.url | prepend: site.baseurl | prepend: site.url }}

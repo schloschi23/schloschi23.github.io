@@ -1,8 +1,7 @@
-sass:
-  style: compressed  # or expanded, depending on your preference
 
-# baseurl: "/schloschi23.github.io"
+url: "https://schloschi23.github.io"
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 collections:
   authors:
