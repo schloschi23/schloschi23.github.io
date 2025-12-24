@@ -8,9 +8,8 @@
 title: schloschi's seite
 email: schloschi23@gmail.com
 description: jung, stabil und gutaussehend
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+url: "https://schloschi23.github.io"
+baseurl: ""
 github_username:  schloschi23
 
 # Build settings
