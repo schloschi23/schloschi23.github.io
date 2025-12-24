@@ -1,0 +1,35 @@
+/* --- Custom Styles --- */
+
+/* Spezifisch den Link zur /now/ Seite im Menü ansprechen */
+.site-nav .page-link[href="/now/"] {
+  border: 2px solid #333; /* Dunkler Rahmen */
+  border-radius: 4px;     /* Leicht abgerundete Ecken */
+  padding: 5px 10px;      /* Etwas Platz innen */
+  text-decoration: none;  /* Unterstreichung weg */
+  font-weight: bold;      /* Schrift etwas dicker */
+  margin-left: 10px;      /* Abstand zu den anderen Links */
+}
+
+/* Hover-Effekt (wenn man mit der Maus drüber fährt) */
+.site-nav .page-link[href="/now/"]:hover {
+  background-color: #333;
+  color: #fff;            /* Text wird weiß, Hintergrund dunkel */
+}
+
+/* Button auf der Startseite */
+.now-button {
+  display: inline-block;
+  border: 1px solid #828282;
+  color: #828282;
+  padding: 8px 15px;
+  border-radius: 20px; /* Pillen-Form */
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+}
+
+.now-button:hover {
+  border-color: #333;
+  color: #333;
+  text-decoration: none;
+}
