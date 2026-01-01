@@ -5,17 +5,23 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: schloschi
-email: schloschi23@gmail.com
-description: jung, stabil und gutaussehend
+# standard settings
+title: schloschi 
+email: schloschi23@gmail.com 
+description: Digitales Notizbuch. Portfolio und Blog an der Schnittstelle von
+Psychologie, Technologie und Outdoor.
 url: "https://schloschi23.github.io"
-baseurl: ""
-github_username:  schloschi23
+baseurl: "" github_username:  schloschi23
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# browser settings
+lang: de-DE
+permalink: /:title/
+date_format: "%d.%m.%Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
