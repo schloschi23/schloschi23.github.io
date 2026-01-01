@@ -1,18 +1,44 @@
 ---
 layout: post
-title:  "Welcome New Year!"
-date: 01.01.2026
+title: "Hello, New Year!"
+date: 2026-01-01
 categories: log
 ---
 
-Ich habe schon seitdem ich 16 bin die Idee eine Webseite im Internet zu haben.
-Früher habe ich mir dafür ein WordPress Abo geholt und vergessen die Domain zu
-kündigen. Aus 12€ im Jahr wurden dann plötzlich 16€ im Monat. Das war damals
-ein bisschen dumm. Über Umwege bin ich dann auf die Möglichkeit auf Github
-gestoßen eine eigene Seite kostenlos in einem repository zu veröffentlichen.
+Schon seit ich 16 bin, geistert die Idee einer eigenen, persönlichen Webseite
+in meinem Hinterkopf herum. Damals verbrachte ich Nächte damit, auf YouTube
+nach der günstigsten Hosting-Methode zu suchen. Schlussendlich tappte ich in
+eine WordPress-Abofalle. Nach einem Jahr Hosting hatte ich die Kündigungsfrist
+verschlafen und mein Vater musste noch mehrere Monate zu erhöhten Preisen
+draufzahlen. Aus „günstigen“ 12 € im Jahr wurden so schnell über 100 €.
+Lehrgeld. Auch die webbasierten Baukästen nervten mich mit langen Ladezeiten und
+langweiligen Themes. Ich wusste, dass es günstigere, schnellere und
+persönlichere Möglichkeiten geben muss.
 
-Dieses Jahr möchte ich mir die erste Woche des Jahres dafür nehmen, diese
-online SEite mit Inhalten zu füllen. 
+Über Umwege stieß ich auf die Möglichkeit, via GitHub Pages eine simple Seite
+kostenlos zu hosten. Also startete ich während der Pandemie einen neuen
+Versuch an meinem Gaming-PC. Doch die dazugehörige mechanische Tastatur mit
+bunten RGB-Leuchten hatte leider keine `<` oder `>` Taste verbaut, was das
+Debuggen massiv erschwerte. Für jede spitze Klammer musste ich das Zeichen via
+Copy & Paste aus einer Google-Suche einfügen. Genauso konnte ich damals auch
+nicht mit zehn Fingern tippen und sah Computer in erster Linie als
+Unterhaltungsgeräte.
 
-Es ist aber ein gruseliges Gefühl, weil ich nicht wirklich weiß, was ich
-posten möchte.
+Auch im Studium ließ mich das Thema nicht los. Ich wollte meine Gedanken,
+[Projekte](/projekte/) und [Abenteuer](/abenteuer/) mit dem Internet teilen,
+allerdings ohne dabei meine Identität vollständig preisgeben zu müssen. Neben
+Vorlesungen und Uni-Alltag füllte ich meine Notiz-App mit Gedankenfetzen.
+Motiviert kaufte ich eine neue Domain und wollte diese mit GitHub Pages
+verbinden, doch scheiterte erneut an der Technik. Ich konnte mir nichts unter
+Git, SSH und SHA-Summen vorstellen. Mein Workflow glich ziemlich exakt der
+Situation, die in diesem [XKCD-Comic](https://imgs.xkcd.com/comics/git.png)
+beschrieben wird.
+
+Mittlerweile ist es schon 2026. Durch den [Missing
+Semester](https://missing.csail.mit.edu/) Kurs vom MIT habe ich gelernt, den
+Computer als echtes Werkzeug zu verstehen. Mehr noch, habe ich nun eine genaue
+Vorstellung davon, wie dieses digitale Notizbuch gefüllt werden soll.
+
+Ich bin gespannt, was die Zeit so bringt.
+
+Cheerio
