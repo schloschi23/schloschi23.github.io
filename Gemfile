@@ -9,6 +9,8 @@ gem "minima", "~> 2.5"
 # PLUGINS
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-seo-tag"  
+  gem "jekyll-sitemap"  
 end
 
 # RUBY 3.4 COMPATIBILITY FIXES (CRITICAL)

@@ -1,8 +1,12 @@
 ---
+layout: page
 title: projekte
 permalink: /projekte/
 ---
+> **das Projekt** *(nach DIN 69901)*:
+>
+> Ein Vorhaben, das durch die Einmaligkeit der Bedingungen in ihrer Gesamtheit
+> gekennzeichnet ist.  
 
-In diesem Projekte-Tab kann man sehen, mit was ich mich sonst so beschäftige.
 
-Projekte betreffen diese Aufgaben, mit denen ich mich länger als zwei Wochen beschäftige.
+{% include card_grid.html folder = "projekte/" %}

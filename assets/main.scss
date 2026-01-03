@@ -1,35 +1,49 @@
 /* --- Custom Styles --- */
 
-/* Spezifisch den Link zur /now/ Seite im Menü ansprechen */
-.site-nav .page-link[href="/now/"] {
-  border: 2px solid #333; /* Dunkler Rahmen */
-  border-radius: 4px;     /* Leicht abgerundete Ecken */
-  padding: 5px 10px;      /* Etwas Platz innen */
-  text-decoration: none;  /* Unterstreichung weg */
-  font-weight: bold;      /* Schrift etwas dicker */
-  margin-left: 10px;      /* Abstand zu den anderen Links */
+/* Container für das Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 2rem;
 }
 
-/* Hover-Effekt (wenn man mit der Maus drüber fährt) */
-.site-nav .page-link[href="/now/"]:hover {
-  background-color: #333;
-  color: #fff;            /* Text wird weiß, Hintergrund dunkel */
-}
-
-/* Button auf der Startseite */
-.now-button {
-  display: inline-block;
-  border: 1px solid #828282;
-  color: #828282;
-  padding: 8px 15px;
-  border-radius: 20px; /* Pillen-Form */
+/* Die einzelne Kachel */
+.content-card {
+  display: block;
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
   text-decoration: none;
-  font-size: 0.9em;
-  transition: all 0.2s ease;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%; /* Wichtig, damit alle gleich hoch wirken */
+  box-sizing: border-box;
 }
 
-.now-button:hover {
-  border-color: #333;
+.content-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  background: #fff;
+}
+
+.content-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
   color: #333;
-  text-decoration: none;
+}
+
+.content-card p {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.5;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  color: #007bff;
 }

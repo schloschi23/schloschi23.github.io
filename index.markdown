@@ -15,8 +15,8 @@ Mein Studium begann mit dem klaren Ziel, menschliches Erleben und Verhalten
 wissenschaftlich zu erforschen. Mittlerweile habe ich erkannt, dass meine
 Stärken und Interssen über den akademischen Betrieb hinausgehen und nutze
 daher die Endphase meines Studiums zur beruflichen Neuorientierung. Der
-Bachelorabschluss in diesem Jahr bildet dabei den erfolgreichen Abschluss des
-Kapitels.
+Bachelorabschluss in diesem Jahr bildet dabei den erfolgreichen Abschluss
+des Kapitels.
 
 Sag Hallo. Du erreichst mich unter 
 <a href="mailto:schloschi23@gmail.com">schloschi23@gmail.com</a>.

@@ -17,11 +17,15 @@ github_username: schloschi23
 
 # build
 theme: minima
+sass:
+  style: compressed
+  quiet_deps: true
+
 
 plugins:
   - jekyll-feed
-#  - jekyll-seo-tag  # Erstellt automatisch Meta-Tags für Google & Social Media
-#  - jekyll-sitemap  # Hilft Suchmaschinen, deine Struktur zu verstehen
+  - jekyll-seo-tag  # Erstellt automatisch Meta-Tags für Google & Social Media
+  - jekyll-sitemap  # Hilft Suchmaschinen, deine Struktur zu verstehen
 
 # navigation
 header_pages:

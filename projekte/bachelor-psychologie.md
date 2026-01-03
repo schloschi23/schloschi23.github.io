@@ -1,23 +1,8 @@
 ---
-layout: single
-title: bscpsych
-description: Bachlor of Science im Fach Psychologie
-image: /assets/images/alpen.jpg  
+layout: post
+title: bscpsy
+description: Bachelor of Science im Fach Psychologie
 ---
-
-# interesse 
-
-Schon während der SChulzeit habe ich mich für PSychologie interessiert. Ich
-habe vor allem Bücher gelesen und viele Podcasts und Youtube Videos zu
-besonderen Effekten gelesen.
-Es ist und bleibt ein spannendes Fach, weil es immer Bezug zu Themen hat, die
-uns alle betreffen. 
-Des Weiteren sind auch die Dinge, die man in populären Medien dazu liest immer
-sehr cool und aufgeladen.
-
-
-
-
 Generell war ich ziemlich vielfältig interessiert. 
 Bei einem Youtube Video wurde ien Buch vorgeschlagen welches man dringend
 lesen sollte. 
@@ -144,4 +129,13 @@ Fragt, welche Daten und Kennuzahlen man draufhaben muss
 
 Ich fand das Psychologiestudium anspruchsvoll, weil ich aus der Schule
 verwöhnt war. Gerade das organisieren 
+
+
+# tldr. 
+psychologie ist ein interessantes Fach. Das Studium ist aber nicht so
+ausgerichtet, wie es eigentlich sein sollte. Das liegt an schlechter
+Hochschulpolitik und anderen Faktoren
+
+
+
 

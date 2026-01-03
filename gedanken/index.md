@@ -3,6 +3,8 @@ layout: page
 title: gedanken
 permalink: /gedanken/
 ---
+> **der Gedanke** *(philosophisch betrachtet)* 
+> Das Ergebnis eines inneren Prozesses; eine erwogene Meinung oder Ansicht.  
 
 Hier sind meine aktuellen Gedanken:
 
