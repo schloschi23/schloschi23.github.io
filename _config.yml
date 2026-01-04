@@ -17,6 +17,8 @@ github_username: schloschi23
 
 # build
 theme: minima
+minima: 
+  skin: dark
 sass:
   style: compressed
   quiet_deps: true
