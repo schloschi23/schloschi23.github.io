@@ -1,49 +1,96 @@
+---
+# Nur diese zwei Striche oben sind wichtig (Front Matter)
+---
+
+@import "minima/skins/auto";
+@import "minima/initialize";
+
 /* --- Custom Styles --- */
 
-/* Container für das Grid */
+/* Container für 2 Spalten Layout */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 20px;
+  /* Trick für responsive 2 Spalten: 
+     Wenn Platz < 320px -> 1 Spalte
+     Wenn Platz > 640px -> 2 Spalten */
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
+  gap: 24px;
   margin-top: 2rem;
 }
 
-/* Die einzelne Kachel */
+/* Die Kachel */
 .content-card {
-  display: block;
-  background: #f9f9f9;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 20px;
-  text-decoration: none;
-  color: inherit;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  height: 100%; /* Wichtig, damit alle gleich hoch wirken */
-  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Damit das Bild die runden Ecken nicht überragt */
+  border-radius: 12px;
+  text-decoration: none !important; /* Unterstreichung weg */
+  
+  /* THEME ADAPTION & TRANSPARENZ */
+  /* Nimmt die aktuelle Textfarbe und macht sie 95% transparent als Hintergrund */
+  background-color: color-mix(in srgb, var(--text-color), transparent 96%);
+  border: 1px solid color-mix(in srgb, var(--text-color), transparent 90%);
+  
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  height: 100%;
 }
 
+/* Hover Effekt */
 .content-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  background: #fff;
+  transform: translateY(-4px);
+  /* Hellerer Rand basierend auf der Markenfarbe (Link-Farbe) */
+  border-color: var(--brand-color, #2a7ae2); 
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
+
+/* Bild Wrapper für festes Seitenverhältnis */
+.card-image-wrapper {
+  width: 100%;
+  aspect-ratio: 3 / 2; /* Bildformat festlegen (3:2 ist klassisch) */
+  background-color: color-mix(in srgb, var(--text-color), transparent 90%);
+  position: relative;
+}
+
+.card-image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Schneidet Bild zu, damit es den Rahmen füllt */
+  display: block;
+}
+
+.no-image-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, transparent 45%, var(--brand-color) 50%, transparent 55%);
+  opacity: 0.1;
+}
+
+/* Text Inhalt */
+.card-content {
+  padding: 20px;
+  flex-grow: 1; /* Drückt den Footer nach unten */
+  display: flex;
+  flex-direction: column;
 }
 
 .content-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-  color: #333;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+  color: var(--text-color); /* Theme Farbe */
 }
 
 .content-card p {
   font-size: 0.95rem;
-  color: #666;
   line-height: 1.5;
+  color: var(--text-color);
+  opacity: 0.8; /* Etwas blasser als die Überschrift */
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
 }
 
 .read-more {
-  display: inline-block;
-  margin-top: 10px;
   font-weight: bold;
   font-size: 0.9rem;
-  color: #007bff;
+  color: var(--brand-color, #2a7ae2); /* Nutzt die Link-Farbe des Themes */
+  margin-top: auto; /* Schiebt den Link immer ganz nach unten */
 }

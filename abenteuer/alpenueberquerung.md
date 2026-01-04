@@ -1,7 +1,11 @@
 ---
-title: "Alpenüberquerung E5"
-toc: true
-toc_label: "Inhalt"
+layout: page
+title: Alpenüberquerung E5
+description: Zu Fuß über die Alpen von Oberstdorf nach Meran.
+image: #/assets/images/thumbnails/alpen.jpg  <-- NEU HINZUFÜGEN
+---
+
+
 ---
 ich bin mit meinen  Kumpels über die Alpen gelaufen
 # Überschrift

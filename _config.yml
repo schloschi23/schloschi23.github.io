@@ -17,6 +17,7 @@ github_username: schloschi23
 
 # build
 theme: minima
+minima:
   skin: dark
   #     * classic            Default, light color scheme.
   #     * dark               Dark variant of the classic skin.
@@ -26,8 +27,9 @@ theme: minima
   #     * solarized          Adaptive skin for solarized color scheme skins.
 
 sass:
-  style: compressed
+  silence_deprecations: import
   quiet_deps: true
+  style: compressed
 
 
 plugins:

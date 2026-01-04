@@ -1,23 +1,26 @@
 <div class="grid-container">
-  {% comment %} 
-    Wir filtern alle Seiten, deren Pfad den Ordnernamen enthält (z.B. "abenteuer/")
-  {% endcomment %}
-  
   {% assign items = site.pages | where_exp: "item", "item.path contains include.folder" %}
   
   {% for item in items %}
-    {% unless item.url == page.url %} <a href="{{ item.url | relative_url }}" class="content-card">
+    {% unless item.url == page.url %}
+      <a href="{{ item.url | relative_url }}" class="content-card">
+        
+        <div class="card-image-wrapper">
+          {% if item.image %}
+            <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" loading="lazy">
+          {% else %}
+            <div class="no-image-placeholder"></div>
+          {% endif %}
+        </div>
+
         <div class="card-content">
           <h3>{{ item.title }}</h3>
-          
           {% if item.description %}
             <p>{{ item.description }}</p>
           {% endif %}
-          
           <span class="read-more">Ansehen &rarr;</span>
         </div>
       </a>
-
     {% endunless %}
   {% endfor %}
 </div>

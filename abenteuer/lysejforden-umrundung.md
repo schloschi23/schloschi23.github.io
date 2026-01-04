@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Lysefjorden Umrundung
 description: Zu Fuß um einen norwegischen Fjord im Sommer 2024
 image: /assets/images/alpen.jpg  
