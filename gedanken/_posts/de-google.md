@@ -1,21 +1,52 @@
-Ich will de-googlen
+---
+title: De-Google!
+date: 2022-12-24
+category: trend
+---
+**wichtig!**
+Ich kritisiere in diesem kurzen Post die Wegwerfgesellschaft, aber mir ist
+vollkommen bewusst, dass ich selber ein Teil davon bin und als 
+konsumorientierter Westdeutscher ein erheblichen Teil des Problems durch
+meinen Lebenswandel selber verursache
 
-## wichtig:
-Ich kritisiere in diesem kurzen Post die WEgwerfgesellschaft, aber mir ist
-vollkommen bewusst, dass ich selber ein Teil davon bin und als deutscher,
-welche durchschnittlich 3,5 Erden bräuchten ein erheblichen Teil des Problems
-durch meinen Lebenswandel selber verursache
-
-
-Ich verbringe viel zu viel Zeit auf Youtube. Mein Gehirn wurde in meiner
+# das problem
+Ich verbringe viel zu viel Zeit am handy. Mein Gehirn wurde in meiner
 Kindheit und Jugend darauf trainiert kurze 10-15 sekündige Videos für mehrere
-Stunden am Tag zu schauen. Ich mag das Internet sehr gerne. Gerade weil es ein
-tolles Werkzeug und Sci-Fi ähnliche Zustände schon heute möglich macht.
+Stunden am Tag zu schauen. 
+Die Big Tech Dienste, die ich in meinem tagtäglichem Leben nutze, sind daran
+interessiert mich an der Stange zu halten. Und haben in meiner Jugend mehrere
+Menschen, zu denen ich parasoziale Beziehungen aufgebaut habe, sehr gut
+bezahlt, damit sich diese auf sozialen Medien präsentieren. Mittlerweile bin
+ich tatsächlihc am  Privatleben dieser influencer interessiert und komme immer
+wieder zurück auf die websites, um unterhaltne zu werden.  Dabei schaue ich
+webrung, die dafür sorgt, dass ich mein hart verdientes Geld für Gym Equipment
+und teure Fashion ausgebe, was ein paar wenige Menschen extrem reich macht,
+aber dem Planeten schadet.
 
-Gerade deswegen möchte ich gerne achtsamer mit meinem Konsum werden.
+Um dieser Kette zu entkommen, möchte ich gerne achtsamer in meinem Konsum
+werden.
 
-Ich kann meinen Youtube Konsum und meinen allgemeinen Konsum sozialer Medien
-nicht kontrollieren und ich weiß, dass ich da nicht der einzige bin. 
+Wie viele andere Menschen in meiner Altersgruppe habe ich Probleme meinen 
+meinen Youtube Konsum und meinen allgemeinen Konsum sozialer Medien
+nicht kontrollieren.
+
+Die kostenlosen Produkte udn Dienste, von techfirmen isnd einfach zu gut
+engineered, um meine Aufmerksamkeit von uns armen Nutzern auf sie zu ziehen
+Deshlab ist der einzige Weg heraus aus meinem Medienproblem weniger dieser
+Dienste zu benutzen und das Umfeld zu verlassen .
+
+
+## lösungsversuche
+
+## zeitlimits auf die apps
+
+
+
+
+## app löschen
+
+
+### kein Internet 
 
 Als ich an die Uni kam ins Wohnheim kam, weigerte ich mich einen WLAN-Router
 in mein Zimmer zu nehmen. Ich mag es nicht WLAN zu haben, weil ich dann fast
@@ -46,6 +77,19 @@ Das gilt es zu vermeiden
 Bei einer dieser 10 stündigen Sessions bin ich auf den subreddit
 r/buyfromeurope aufmerksam geworden. Dort kann man viele bekannte
 Alternatiiven zu Big-Tech Produkten finden 
+
+
+## anderen dienst nutzen
+
+
+
+## /r/buyfromeurope 
+auf einem meiner vielen 6 stündigen Reddit Exzessen bin ich auf den Subreddit
+buy from europe aufmerksamk geworden. Gerade im letzten Jahr ist als Reaktion
+von der amerikanischen Politik viel gepostet worden. 
+Neben dem boykottieren von ami Produkten in Supermärkten wird mittlerweile
+auch software angeboten.
+
 
 
 ## Hardware

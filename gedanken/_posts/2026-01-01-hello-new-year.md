@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, New Year!"
 date: 2026-01-01
-categories: log
+categories: blog
 ---
 
 Schon seit ich 16 bin, geistert die Idee einer eigenen, persönlichen Webseite
@@ -24,15 +24,15 @@ Copy & Paste aus einer Google-Suche einfügen. Genauso konnte ich damals auch
 nicht mit zehn Fingern tippen und sah Computer in erster Linie als
 Unterhaltungsgeräte.
 
-Auch im Studium ließ mich das Thema nicht los. Ich wollte meine Gedanken,
-[Projekte](/projekte/) und [Abenteuer](/abenteuer/) mit dem Internet teilen,
-allerdings ohne dabei meine Identität vollständig preisgeben zu müssen. Neben
-Vorlesungen und Uni-Alltag füllte ich meine Notiz-App mit Gedankenfetzen.
-Motiviert kaufte ich eine neue Domain und wollte diese mit GitHub Pages
-verbinden, doch scheiterte erneut an der Technik. Ich konnte mir nichts unter
-Git, SSH und SHA-Summen vorstellen. Mein Workflow glich ziemlich exakt der
-Situation, die in diesem [XKCD-Comic](https://imgs.xkcd.com/comics/git.png)
-beschrieben wird.
+Auch im Studium ließ mich das Thema nicht los. Ich wollte meine
+[Gedanken](/gedanken/), [Projekte](/projekte/) und [Abenteuer](/abenteuer/)
+mit dem Internet teilen, allerdings ohne dabei meine Identität vollständig
+preisgeben zu müssen. Neben Vorlesungen und Uni-Alltag füllte ich meine
+Notiz-App mit Gedankenfetzen. Motiviert kaufte ich eine neue Domain und wollte
+diese mit GitHub Pages verbinden, doch ich scheiterte erneut an der Technik. Ich
+konnte mir nichts unter Git, SSH und SHA-Summen vorstellen. Mein Workflow
+glich ziemlich exakt der Situation, die in diesem
+[XKCD-Comic](https://imgs.xkcd.com/comics/git.png) beschrieben wird.
 
 Mittlerweile ist es schon 2026. Durch den [Missing
 Semester](https://missing.csail.mit.edu/) Kurs vom MIT habe ich gelernt, den
