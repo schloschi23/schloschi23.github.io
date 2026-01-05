@@ -4,6 +4,8 @@ title: bscpsy
 description: >-
   "Ein ehrlicher Einblick in mein Psychologiestudium: Warum ich es gewählt
   habe, was mich überrascht hat und für wen es wirklich geeignet ist."
+
+modified_date: 2016-05-27
 ---
 Psychologie als akademische Disziplin ist nicht das, was sich der Bevölkerung
 darunter vorstellt. Psychologen können nicht einfach "besonders gut fühlen",

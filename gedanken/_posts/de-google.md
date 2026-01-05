@@ -173,3 +173,13 @@ Die Frage ist, was bringen mir Nachrichten und das ganze Rauschen
 
 
 
+schon länger habe ich auf meiner To Do List stehen, dass ich Gmail löschen
+möchte
+
+
+gutes video vom Primy
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/R3blSsMfMwU?si=Lpibdu4G008281sw"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
