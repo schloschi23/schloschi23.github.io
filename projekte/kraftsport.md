@@ -48,3 +48,30 @@ Dein Homegym für 400 000 € bauen? Du wirst nicht mehr Sport haben, wenn du ei
 perfektes HomeGym hast. So funktioniert Psychologie nicht.
 Du wirst auch nicht plötzlich anfangen Sport zu machen, wenn  
 
+
+
+gewicht hochgehen, wenn ich 3x12 sätze schaffe als Faustregel
+
+letzten zwei Reps sind immer die wichtigsten, weil man da am strugglen ist und
+das möchte man 
+
+Sportlich zu werden a la Tim Gabel ist nicht so deep. Wenn man genug Zeit hat,
+macht das Spaß und ist selbstverstärkend 
+
+> ich fühle mich wach, aktiviert und bereit, wenn ich meine drei lifts gemacht
+> habe. Leicht zittrig, aber ein sehr angenehmes und warmes Gefühl. 
+
+Allgemein habe ich die Faustregele, dass es nicht so schlimm sein kann, wenn
+ich danach pfeife
+
+
+
+# über physiologie die psyche steuern
+
+Sport zu machen fühlt sich toll an. es gibt aber auch noch andere
+Möglichkeiten auf das Wohlbefinden Einfluss zu nehmen.  
+
+Das wäre Atemübungen und so eine Art physiologischer Reset a la Huberman 
+
+
+> ich habe es noch nie beruet sport zu machen 

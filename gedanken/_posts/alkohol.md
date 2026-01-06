@@ -13,3 +13,12 @@ Ne, ich habe einen Clip auf social media gesehen und habe auch langsam keine
 Lust mehr. Ich habe das Skript des "Feiern gehens" oft genug durchgespielt und
 es langweilt mich inzwischen. Des Weiteren habe ich andere Ambitionnen, die
 jetzt VOrragn haben
+
+
+dry january 
+
+KEIN ALKOHOL
+-> es lohnt sich nicht
+
+Winfried Kretshcmann in seiner Jugend. ähnlich wie bei mir, man muss aber auch
+weiter mahcen
